@@ -8,7 +8,7 @@
 
 ## Requirements
 
-* Unity: 6000.3.10f1
+* Unity: 6000.3.27f1
 * Render Pipeline: Universal Render Pipeline (URP)
 * Required packages/tools:
   * Visual Effect Graph
@@ -16,7 +16,7 @@
 
 ## Usage
 
-1. Clona el repositorio y ábrelo con Unity 6000.3.10f1 (Unity Hub → Add project from disk).
+1. Clona el repositorio y ábrelo con Unity 6000.3.27f1 (Unity Hub → Add project from disk).
 2. Abre la escena principal:
    * `Assets/Scenes/Terminal/TerminalScene.unity` (o Cockpit / Garden / Oasis)
 
