@@ -6,6 +6,10 @@
 
 </header>
 
+## Preview
+
+![Preview](.github/preview.gif)
+
 ## Requirements
 
 * Unity: 6000.3.27f1
