@@ -7,9 +7,11 @@
 # and distributed under MIT License.
 
 # Define macros (only works in top-level gitattributes files)
-[attr]lfs               filter=lfs diff=lfs merge=lfs -text
+[attr]lfs               -diff -merge -text
 [attr]unity-json        eol=lf linguist-language=json
 [attr]unity-yaml        merge=unityyamlmerge eol=lf linguist-language=yaml
+
+# Sin Git LFS: la macro "lfs" solo marca binarios (los repos deben pesar poco)
 
 # Optionally collapse Unity YAML files on GitHub diffs
 # [attr]unity-yaml        merge=unityyamlmerge text linguist-language=yaml linguist-generated
