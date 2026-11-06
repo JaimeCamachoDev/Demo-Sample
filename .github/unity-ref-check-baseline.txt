@@ -1,0 +1,98 @@
+# Línea base de unity-ref-check: problemas conocidos que no hacen fallar la revisión.
+# Formato: tipo<TAB>guid o ruta<TAB>fichero. Se regenera con --write-baseline.
+malla	028d93665864b7f4d98008379dd8133e	Assets/Scenes/Oasis/Art/Vegetation/Prefabs/Vegetation_Prefab.prefab
+malla	1aba76134432a9045bde66f5d8cdc8c5	Assets/Scenes/Garden/Art/VFX/Prefabs/InsectsLamp_Prefab.prefab
+otros	08826a716b701054a93988740c6c2fd4	Assets/Scenes/Cockpit/Art/VFX/Prefabs/Explosion_Prefab.prefab
+otros	17b2c54359de95a46ab4154f56d50904	Assets/Scenes/Cockpit/Animation/Sequence/FlightSequence.playable
+otros	23d94a60506afd843aa5cd66a52c8523	Assets/Scenes/Terminal/Art/Props/Prefabs/ControlPanel_Prefab.prefab
+otros	26df2757fe1a0ce42b42939d51731cba	Assets/Scenes/Terminal/Animation/TerminalVideoTimeline_Prefab.prefab
+otros	286650e35e342564c9c3f0ecd9f27bcf	Assets/SharedAssets/Prefabs/FPS_Controller_Prefab.prefab
+otros	28a0e12fb0ef43d459c391f394d689b1	Assets/Scenes/Terminal/Art/Architechture/Prefabs/Room_Prefab.prefab
+otros	3b0aba7fb6edc0d49934d57b0e05e510	Assets/Scenes/Cockpit/Art/VFX/Prefabs/Explosion_Prefab.prefab
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/BakedLightingTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/BeforeYouStartTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/CockpitTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/GardenTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/GraphicsSettingsTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/LightsTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/MaterialsTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/OasisTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/ReflectionProbesTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/SkyFogTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/TerminalTutorial.asset
+otros	3db1837cc97a95e4c98610966fac2b0b	Assets/Tutorials/Tutorials/VolumeTutorial.asset
+otros	4311bb77e5b90f842a7c7f1055f9ce96	Assets/Scenes/Garden/Art/Terrain/Prefabs/Water_probe.prefab
+otros	495b7cfddb13543d4a28cc636b369266	Assets/Scenes/Oasis/Art/Environment/Prefabs/OasisMedia_Prefab.prefab
+otros	495b7cfddb13543d4a28cc636b369266	Assets/Scenes/Oasis/OasisScene.unity
+otros	501532068ddb6a749bbd103e500f883d	Assets/Scenes/Oasis/Art/Vegetation/Prefabs/Groups/BushGroup_Prefab.prefab
+otros	501532068ddb6a749bbd103e500f883d	Assets/Scenes/Oasis/Art/Vegetation/Prefabs/Groups/PalmBushGrou_Prefab.prefab
+otros	56d2d06e16518ec46b35d4e1f382594d	Assets/Scenes/Garden/Art/VFX/Prefabs/TeapotSteam_Prefab.prefab
+otros	647cb5e6c7457754f80b7c8e36779962	Assets/Tutorials/Pages/LightsPage3.asset
+otros	6b911390c5825014e8377183a7837d3f	Assets/SharedAssets/FirstPersonController/Prefabs/NestedParent_Unpack.prefab
+otros	6b911390c5825014e8377183a7837d3f	Assets/SharedAssets/FirstPersonController/Prefabs/PlayerCapsule.prefab
+otros	6bc49a4f89e760448b9b07f9b4a56d01	Assets/Scenes/Garden/Art/Terrain/Prefabs/Water_probe.prefab
+otros	6cfc0d71bf2fabc42b0d827e348e6320	Assets/Tutorials/Pages/BakedLightingPage4.asset
+otros	6cfc0d71bf2fabc42b0d827e348e6320	Assets/Tutorials/Pages/VolumeFrameworkPage4.asset
+otros	72578a6e4b5d47249ab66d4d29f7eef9	Assets/Scenes/Garden/Art/Terrain/Prefabs/Dirt_Blend_Decal.prefab
+otros	72578a6e4b5d47249ab66d4d29f7eef9	Assets/Scenes/Garden/Art/Terrain/Prefabs/Gravel_Blend_Decal.prefab
+otros	74a0c42fee88e45d1a7304c4d3ab3070	Assets/Scenes/Cockpit/CockpitScene.unity
+otros	775b1be5ba138b842b9643a3acbfb627	Assets/Scenes/Oasis/OasisScene.unity
+otros	8c1995e211774704b98e9e3586026ccb	Assets/Tutorials/Pages/ReflectionProbesPage3.asset
+otros	8d2b462398d6d8d43be9ae973c781087	Assets/Tutorials/Pages/SkyFogPage3.asset
+otros	99f677dcf1744aa4d9ff3b0f37bf3888	Assets/Tutorials/Pages/BakedLightingPage1.asset
+otros	99f677dcf1744aa4d9ff3b0f37bf3888	Assets/Tutorials/Pages/BakedLightingPage2.asset
+otros	99f677dcf1744aa4d9ff3b0f37bf3888	Assets/Tutorials/Pages/BakedLightingPage3.asset
+otros	9bf951fe98529ef42b0b6abb8ff15517	Assets/Scenes/Garden/GardenScene.unity
+otros	9d08b17ff9b26c14a98047036a83361f	Assets/Scenes/Garden/GardenScene.unity
+otros	a9996eda553396f499fb028683446ee6	Assets/Scenes/Garden/Art/Terrain/Prefabs/Water_probe.prefab
+otros	b86855a31de6d45b78bd1adad2bb2a27	Assets/Scenes/Garden/Animation/GardenScreenshots_Timeline_Prefab.prefab
+otros	b86855a31de6d45b78bd1adad2bb2a27	Assets/Scenes/Garden/Animation/GardenVideo_Timeline_Prefab.prefab
+otros	b86855a31de6d45b78bd1adad2bb2a27	Assets/Scenes/Garden/Art/Architecture/Prefabs/ScreenshotsTimeline.prefab
+otros	b86855a31de6d45b78bd1adad2bb2a27	Assets/Scenes/Garden/GardenScene.unity
+otros	ba74f3632e8a2f24c950d00cbc4e3df6	Assets/Scenes/Cockpit/Animation/Sequence/FlightSequence.playable
+otros	bbd4e35cd1bf18c4cb576c574c072149	Assets/Scenes/Oasis/OasisScene.unity
+otros	bcb370b04940f4527b6f6d2021027a6a	Assets/Scenes/Cockpit/Animation/Sequence/CockpitFlythrough.playable
+otros	c81ec954de18358428e78a7ccfff0c70	Assets/Tutorials/Pages/MaterialsPage4.asset
+otros	cb418478f062c0a4d862280eaa08be74	Assets/Scenes/Cockpit/Animation/Sequence/FlightSequence.playable
+otros	d6d912f50ef13d541900dafc4f8540a3	Assets/Scenes/Oasis/VFX/TXT/RT_Custom_Height.asset
+otros	dd11d416134cb2c4a871212c8beddfed	Assets/Scenes/Terminal/TerminalScene.unity
+otros	ddef5e52b63bc26488ea8005f5185d98	Assets/Scenes/Oasis/OasisScene.unity
+otros	de836905590dce04dbdf5b0451accfdc	Assets/Scenes/Garden/Art/Terrain/Prefabs/Water_probe.prefab
+otros	df85e8b926f8b27478944bcec6358987	Assets/Scenes/Garden/GardenScene.unity
+otros	e5fba2671cf3d4704bbb2de09e353c1d	Assets/Scenes/Cockpit/Animation/Sequence/CockpitFlythrough.playable
+otros	f039b55436eb2bb4b9a89beccfbc8cd4	Assets/Scenes/Cockpit/Animation/PlayerShip_Anim.controller
+otros	fa33286a6cca6c04883f7856b1d4d2a3	Assets/Scenes/Terminal/Animation/TerminalScreenshotsTimeline_Prefab.prefab
+otros	fa33286a6cca6c04883f7856b1d4d2a3	Assets/Scenes/Terminal/Animation/TerminalVideoTimeline_Prefab.prefab
+script (Missing Script)	03bc68f14d65e7747a59d5ff74bd199b	Assets/Settings/XR/Loaders/Oculus_Loader.asset
+script (Missing Script)	0660e8fc444734757ae6f6c40c2d33a0	Assets/Settings/XR/Loaders/Mock_HMD_Loader.asset
+script (Missing Script)	9bec74c187ce38841bc49562a14c28a5	Assets/Scenes/Oasis/Art/Vegetation/Prefabs/Fountain/Fountain_01_Prefab.prefab
+script (Missing Script)	9bec74c187ce38841bc49562a14c28a5	Assets/Scenes/Oasis/Art/Vegetation/Prefabs/Groups/BushGroup_Prefab.prefab
+script (Missing Script)	9bec74c187ce38841bc49562a14c28a5	Assets/Scenes/Oasis/Art/Vegetation/Prefabs/Groups/LongGrassGroup_Prefab.prefab
+script (Missing Script)	9bec74c187ce38841bc49562a14c28a5	Assets/Scenes/Oasis/Art/Vegetation/Prefabs/Groups/PalmBushGrou_Prefab.prefab
+script (Missing Script)	a0ec52cecc795714f93f274c2e71e87b	Assets/Settings/Mobile/Mobile_High_Renderer.asset
+script (Missing Script)	a0ec52cecc795714f93f274c2e71e87b	Assets/Settings/Mobile/Mobile_Low_Renderer.asset
+script (Missing Script)	c353a8f1e58cf884584123914fe63cd5	Assets/Settings/XR/Settings/Oculus_Settings.asset
+script (Missing Script)	c8bf066bf8a4947a1be502d267edb82f	Assets/Settings/XR/Settings/Mock_HMD_Build_Settings.asset
+script (Missing Script)	d236b7d11115f2143951f1e14045df39	Assets/Settings/XR/XRGeneralSettings.asset
+script (Missing Script)	d2dc886499c26824283350fa532d087d	Assets/Settings/XR/XRGeneralSettings.asset
+script (Missing Script)	e3c8b1476fef6ec45bb71948a25c34a2	Assets/Scenes/Garden/Art/Vegetation/Vegetation.prefab
+script (Missing Script)	f4c3631f5e58749a59194e0cf6baf6d5	Assets/Settings/XR/XRGeneralSettings.asset
+subgrafo/textura en Shader Graph	0701ce4a27281414e9111932a0b10b6b	Assets/Scenes/Oasis/Shaders/OasisTerrainSand_Graph.shadergraph
+subgrafo/textura en Shader Graph	34444ec822db9594883175098ec4bdb0	Assets/SharedAssets/Shaders/BiplanarMapping/BiplanarShader.shadergraph
+subgrafo/textura en Shader Graph	3b0beb173852d4a8faba952fc74409b7	Assets/Scenes/Oasis/Shaders/LayeredLit_Graph.shadergraph
+subgrafo/textura en Shader Graph	4d58dccd557d3bf4681ce0efdfd3fb6a	Assets/Scenes/Oasis/Shaders/MovingSand_SubGraph.shadersubgraph
+subgrafo/textura en Shader Graph	4db5467afd43549ffbf06f367610d277	Assets/Scenes/Oasis/Shaders/LayeredLit_Graph.shadergraph
+subgrafo/textura en Shader Graph	527906c86f78d9b469c6c40e73f0a9c7	Assets/Scenes/Oasis/Shaders/OasisTerrainSand_Graph.shadergraph
+subgrafo/textura en Shader Graph	5a2fb72f6ecf4784d9b93995eb11b4dc	Assets/Scenes/Oasis/Shaders/MovingSand_SubGraph.shadersubgraph
+subgrafo/textura en Shader Graph	5a2fb72f6ecf4784d9b93995eb11b4dc	Assets/Scenes/Oasis/Shaders/OasisTerrainSand_Graph.shadergraph
+subgrafo/textura en Shader Graph	5c6bf71c8708847449ef95cd819dd41e	Assets/Scenes/Garden/Shaders/AnamorphicSampler.shadergraph
+subgrafo/textura en Shader Graph	6a86fa3d7160e644298e7abe8dd63159	Assets/SharedAssets/Shaders/BiplanarMapping/BiplanarShader.shadergraph
+subgrafo/textura en Shader Graph	6bdf6ff1e20dadc4596e3dd7f20a1461	Assets/Scenes/Garden/Shaders/WashiLight_Graph.shadergraph
+subgrafo/textura en Shader Graph	952ac27c7f1712d408ea509d4eeaafc3	Assets/Scenes/Oasis/Shaders/MovingSand_SubGraph.shadersubgraph
+subgrafo/textura en Shader Graph	96ff03df0f1de6f46b82d34557301f68	Assets/Scenes/Oasis/Shaders/UnpackTerrainData.shadersubgraph
+subgrafo/textura en Shader Graph	a3a3bd9330acd49fdb3ee1a9b0919c59	Assets/Scenes/Oasis/Shaders/LayeredLit_Graph.shadergraph
+subgrafo/textura en Shader Graph	a5ea8a9d42b4c1e4db1b7d0a9b3f060e	Assets/Scenes/Oasis/Shaders/OasisTerrainSand_Graph.shadergraph
+subgrafo/textura en Shader Graph	b1e0119030503a848b1a4d0e65881235	Assets/Scenes/Oasis/Shaders/OasisTerrainSand_Graph.shadergraph
+subgrafo/textura en Shader Graph	cbd5a96a74c165f4aa290902e146a818	Assets/Scenes/Oasis/Shaders/OasisTerrainSand_Graph.shadergraph
+subgrafo/textura en Shader Graph	d3f8de6127b6d444592b59a1f60c86bd	Assets/Scenes/Cockpit/Shaders/ToonLighting.shadersubgraph
+subgrafo/textura en Shader Graph	fab85e0cacda9644a99e5182a86b71f5	Assets/SharedAssets/Shaders/BiplanarMapping/BiplanarShader.shadergraph
